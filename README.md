@@ -16,8 +16,6 @@ Simple Excel workbook that tracks tasks with priorities, due dates, and status.
 **Preview**
 <img width="1280" height="800" alt="Preview" src="https://github.com/user-attachments/assets/4f67fb03-fec9-43d4-b7fc-6cf0c61b9aeb" />
 
-**Files**
-- `todo-progress-tracker.xlsx` — full workbook (downloadable)
 
 
 Made by Jaiden Boyd — [LinkedIn](https://www.linkedin.com/in/jaiden-boyd/)
